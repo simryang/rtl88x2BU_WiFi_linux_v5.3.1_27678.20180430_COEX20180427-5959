@@ -1,6 +1,7 @@
 # Deprecation notice. This repo is deprecated and a newer version of the driver is available at https://github.com/cilynx/rtl88x2bu
 
-# IPTIME 무선랜카드 A3000UA-2 드라이버입니다. 우분투 16.04용이구요 새로운 버전이 필요하신 분들은 위 주소로 가셔서 받으시면 됩니다...만 우분투 16.04에서 쓰실 분은 이 버전을 추천합니다. 직접 디버깅 가능하시면 최신 버전 쓰셔도 됩니다!
+IPTIME 무선랜카드 A3000UA-2 드라이버입니다. 우분투 16.04용이구요 새로운 버전이 필요하신 분들은 위 주소로 가셔서 받으시면 됩니다...만 우분투 16.04에서 쓰실 분은 이 버전을 추천합니다. 직접 디버깅 가능하시면 최신 버전 쓰셔도 됩니다!
+아래 영어 안내 읽기 싫으신 분은 https://simryang.tistory.com/entry/%EB%AC%B4%EC%84%A0-%EB%9E%9C%EC%B9%B4%EB%93%9C-IPTime-A3000UA-2-Ubuntu-1604-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0 글을 참고 하시기 바랍니다.
 
 # Driver for rtl88x2bu wifi adaptors
 
